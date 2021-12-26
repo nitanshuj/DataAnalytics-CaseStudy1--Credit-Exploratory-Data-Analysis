@@ -10,11 +10,9 @@ This was an assignment I completed as a part of my Post Graduate Diploma in Data
 
 
 The datasets were provided by Upgrad:
-> - application_data.csv - https://drive.google.com/file/d/1qIiR2nDPv9QemqbtupwyRQnk2ASvIBjT/view?usp=sharing
-<br>
-> - previous_application.csv - https://drive.google.com/file/d/1hnIzTIJfyc1DW9q9wp2iua61wiUXmivK/view?usp=sharing
-<br>
-> - column_description.csv - https://drive.google.com/file/d/1LVmSWLdOPdUyaUHNe7LYo__eNoIzzAgZ/view?usp=sharing
+- application_data.csv - https://drive.google.com/file/d/1qIiR2nDPv9QemqbtupwyRQnk2ASvIBjT/view?usp=sharing
+- previous_application.csv - https://drive.google.com/file/d/1hnIzTIJfyc1DW9q9wp2iua61wiUXmivK/view?usp=sharing
+- column_description.csv - https://drive.google.com/file/d/1LVmSWLdOPdUyaUHNe7LYo__eNoIzzAgZ/view?usp=sharing
 
 
 `The report that follows is my explanation of what was performed in the Case Study.`
