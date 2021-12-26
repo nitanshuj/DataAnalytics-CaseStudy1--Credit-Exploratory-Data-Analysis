@@ -1,4 +1,4 @@
-# Case Study 1: Credit Exploratory Data Analysis
+# Case Study 1: Credit - Exploratory Data Analysis
 
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
